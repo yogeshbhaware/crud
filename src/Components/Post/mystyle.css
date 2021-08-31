@@ -1,0 +1,50 @@
+.bt{
+    margin: 30px;
+}
+
+.field{
+    width: 250px
+}
+.route{
+    font-size: 20px;
+    font-weight: 100;
+    border: 1px solid red;
+    border-radius: 10px;
+    color: aliceblue;
+    background: #111;
+    margin-top: 30px;
+    margin: 15px;
+    
+
+}
+.route:hover{
+    color: #111;
+    background: aliceblue;
+}
+.red{
+    font-family: 'Courier New', Courier, monospace;
+}
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 350px;
+    height: 400px;
+}
+.delete{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 200px;
+    height: 200px;
+}
+.want{
+    float: right;
+    left: 100%;
+}
+.validate{
+    color: red;
+}
+
